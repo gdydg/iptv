@@ -1,1 +1,2 @@
-CCTV1,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Albania",AlbKanale Music TV Ⓢ
+http://175.0.65.177:9901/tsfile/live/0016_1.m3u8?key=txiptv
