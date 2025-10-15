@@ -11,20 +11,20 @@ http://148.135.93.213/live.php?id=CCTV13
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-id="CNA.al" group-title="CCTV",广东卫视
 http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
-#EXTINF:-1 tvg-name="Euronews CCTV Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsCCTV.al" group-title="CCTV",Euronews CCTV Ⓨ
-https://www.youtube.com/@EuronewsCCTV/live
+#EXTINF:-1 tvg-name="Euronews CCTV Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsCCTV.al" group-title="CCTV",三立
+https://stream1.freetv.fun/51b9ec245cd84f98d9851943814978048ff609bbbb171d5dbe9e63337d64aabd.m3u8
 #EXTINF:-1 tvg-name="News 24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28CCTV%29.svg/1024px-News_24_%28CCTV%29.svg.png" tvg-id="News24.al" group-title="CCTV",News 24 Ⓢ
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" group-title="CCTV",Ora News
-https://live1.mediadesk.al/oranews.m3u8
+https://stream1.freetv.fun/46bc6232fcf942e551a45f91f013aaec591d8d8fdf57ae18000afd509ff752cd.m3u8
+#EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" group-title="CCTV",三立
+https://stream1.freetv.fun/san-li-xin-wen---x-1.m3u8
 #EXTINF:-1 tvg-name="Panorama TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" tvg-id="PanoramaTV.al" group-title="CCTV",Panorama TV Ⓢ
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" group-title="CCTV",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
+https://stream1.freetv.fun/103cd30c02d26d164666911be0e4abda2a1cd5d8ef4c1592d45b2427e75961dc.ctv
+#EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" group-title="CCTV",三立
+https://stream1.freetv.fun/san-li-xin-wen-4.ctv
 #EXTINF:-1 tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-id="Syri.al" group-title="CCTV",Syri
 https://stream.syritv.al/SyriTV/index.m3u8
-#EXTINF:-1 tvg-name="Top News Ⓣ" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" group-title="CCTV",Top News Ⓣ
-https://www.twitch.tv/topnewsal
+#EXTINF:-1 tvg-name="Top News Ⓣ" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" group-title="CCTV",三立
+https://stream1.freetv.fun/san-li-zong-he---x-1.m3u8
 #EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" group-title="CCTV",Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 7 CCTV" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-id="TV7CCTV.al" group-title="CCTV",TV 7 CCTV
