@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="" group-title="BXTV",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="" group-title="BXTV",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="BXTV",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="" group-title="BXTV",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="" group-title="BXTV",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="" group-title="BXTV",千禧經典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="BXTV",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="" group-title="BXTV",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="" group-title="BXTV",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="" group-title="BXTV",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="" group-title="BXTV",POPC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="" group-title="BXTV",中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="" group-title="BXTV",cctv1
+http://bxtv.3a.ink/migu.php?id=cctv1
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="" group-title="BXTV",cctv2
+http://bxtv.3a.ink/migu.php?id=cctv2
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="" group-title="BXTV",cctv3
+http://bxtv.3a.ink/migu.php?id=cctv3
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="BXTV",cctv4
+http://bxtv.3a.ink/migu.php?id=cctv4
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="" group-title="BXTV",cctv5
+http://bxtv.3a.ink/migu.php?id=cctv5
+#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="" group-title="BXTV",cctv5+
+http://bxtv.3a.ink/migu.php?id=cctv5p
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="" group-title="BXTV",cctv6
+http://bxtv.3a.ink/migu.php?id=cctv6
+#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="" group-title="BXTV",cctv7
+http://bxtv.3a.ink/migu.php?id=cctv7
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="" group-title="BXTV",cctv8
+http://bxtv.3a.ink/migu.php?id=cctv8
+#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="" group-title="BXTV",cctv9
+http://bxtv.3a.ink/migu.php?id=cctv9
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="" group-title="BXTV",cctv10
+http://bxtv.3a.ink/migu.php?id=cctv10
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="" group-title="BXTV",cctv11
+http://bxtv.3a.ink/migu.php?id=cctv11
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="" group-title="BXTV",cctv12
+http://bxtv.3a.ink/migu.php?id=cctv12
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="" group-title="BXTV",cctv13
+http://bxtv.3a.ink/migu.php?id=cctv13
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="" group-title="BXTV",cctv14
+http://bxtv.3a.ink/migu.php?id=cctv14
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="" group-title="BXTV",cctv15
+http://bxtv.3a.ink/migu.php?id=cctv15
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="" group-title="BXTV",cctv17
+http://bxtv.3a.ink/migu.php?id=cctv17
