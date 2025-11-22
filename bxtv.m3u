@@ -5,6 +5,8 @@ http://bxtv.3a.ink/api.php?id=18
 http://bxtv.3a.ink/api.php?id=tvbp
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="BXTV",明珠台
 http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="smart",明珠台
+https://moon.gitee.tech/smart.php?id=pearl_twn&token=03040404aA@
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="" group-title="BXTV",無線新聞台
 http://bxtv.3a.ink/api.php?id=wxxw
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="" group-title="BXTV",美亞電影台
