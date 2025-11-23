@@ -5,7 +5,7 @@ http://bxtv.3a.ink/api.php?id=18
 http://bxtv.3a.ink/api.php?id=tvbp
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="BXTV",明珠台
 http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="smart",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="BXTV",明珠台
 https://moon.gitee.tech/smart.php?id=pearl_twn&token=03040404aA@
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="" group-title="BXTV",無線新聞台
 http://bxtv.3a.ink/api.php?id=wxxw
@@ -25,37 +25,37 @@ http://bxtv.3a.ink/api.php?id=fhhk
 http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="" group-title="BXTV",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
-#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="" group-title="BXTV",cctv1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="" group-title="CCTV",cctv1
 http://bxtv.3a.ink/migu.php?id=cctv1
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="" group-title="BXTV",cctv2
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="" group-title="CCTV",cctv2
 http://bxtv.3a.ink/migu.php?id=cctv2
-#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="" group-title="BXTV",cctv3
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="" group-title="CCTV",cctv3
 http://bxtv.3a.ink/migu.php?id=cctv3
-#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="BXTV",cctv4
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="" group-title="CCTV",cctv4
 http://bxtv.3a.ink/migu.php?id=cctv4
-#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="" group-title="BXTV",cctv5
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="" group-title="CCTV",cctv5
 http://bxtv.3a.ink/migu.php?id=cctv5
-#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="" group-title="BXTV",cctv5+
+#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="" group-title="CCTV",cctv5+
 http://bxtv.3a.ink/migu.php?id=cctv5p
-#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="" group-title="BXTV",cctv6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="" group-title="CCTV",cctv6
 http://bxtv.3a.ink/migu.php?id=cctv6
-#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="" group-title="BXTV",cctv7
+#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="" group-title="CCTV",cctv7
 http://bxtv.3a.ink/migu.php?id=cctv7
-#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="" group-title="BXTV",cctv8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="" group-title="CCTV",cctv8
 http://bxtv.3a.ink/migu.php?id=cctv8
-#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="" group-title="BXTV",cctv9
+#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="" group-title="CCTV",cctv9
 http://bxtv.3a.ink/migu.php?id=cctv9
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="" group-title="BXTV",cctv10
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="" group-title="CCTV",cctv10
 http://bxtv.3a.ink/migu.php?id=cctv10
-#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="" group-title="BXTV",cctv11
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="" group-title="CCTV",cctv11
 http://bxtv.3a.ink/migu.php?id=cctv11
-#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="" group-title="BXTV",cctv12
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="" group-title="CCTV",cctv12
 http://bxtv.3a.ink/migu.php?id=cctv12
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="" group-title="BXTV",cctv13
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="" group-title="CCTV",cctv13
 http://bxtv.3a.ink/migu.php?id=cctv13
-#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="" group-title="BXTV",cctv14
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="" group-title="CCTV",cctv14
 http://bxtv.3a.ink/migu.php?id=cctv14
-#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="" group-title="BXTV",cctv15
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="" group-title="CCTV",cctv15
 http://bxtv.3a.ink/migu.php?id=cctv15
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="" group-title="BXTV",cctv17
+#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="" group-title="CCTV",cctv17
 http://bxtv.3a.ink/migu.php?id=cctv17
