@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="general",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="10Bold.au" tvg-name="10 Bold" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="lifestyle;relax",10 Bold
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.au" tvg-name="WeatherSpy" tvg-logo="https://i.imgur.com/GTxN2nH.png" group-title="weather",WeatherSpy
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSNJewellery.au" tvg-name="TVSN Jewellery" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="shop",TVSN Jewellery
+https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="TVSNBeauty.au" tvg-name="TVSN Beauty" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="shop",TVSN Beauty
+https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="TVSN.au" tvg-name="TVSN" tvg-logo="https://i.postimg.cc/sD1NFx9c/tvsn.png" group-title="shop",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra3.au" tvg-name="Sky News Extra 3" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="news",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra2.au" tvg-name="Sky News Extra 2" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="news",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-name="Sky News Extra 1" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="news",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-name="Racing.com" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="sports",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="INTVAustralia.au" tvg-name="INTV Australia" tvg-logo="https://i.imgur.com/1nJl0Pv.png" group-title="music",INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 tvg-id="IndoOzTV.au" tvg-name="Indo Oz TV" tvg-logo="https://i.imgur.com/4LECwDh.png" group-title="entertainment",Indo Oz TV
+https://stream.e2is.in/hls/indoztv.m3u8
+#EXTINF:-1 tvg-id="FolkKlubTV.au" tvg-name="Folk Klub TV" tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="music",Folk Klub TV
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-id="ExpoChannel.au" tvg-name="Expo Channel" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="shop",Expo Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au" tvg-name="CTB Perth Movies Channel" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" group-title="movies",CTB Perth Movies Channel
+https://movies.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Channel44.au" tvg-name="Channel 44" tvg-logo="https://i.postimg.cc/Prq8cQtC/channel44.png" group-title="general",Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="general",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="AusbizTV.au" tvg-name="Ausbiz TV" tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="business",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="6PR.au" tvg-name="6PR" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="news",6PR
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 tvg-id="3AW.au" tvg-name="3AW" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="news",3AW
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1 tvg-id="2GB.au" tvg-name="2GB" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="news",2GB
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/512px-ABC_Entertains_logo.svg.png" group-title="education;kids",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="Channel9.au" tvg-name="Channel 9" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="general",Channel 9
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-id="Channel7.au" tvg-name="Channel 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/512px-Seven_Network_logo.svg.png" group-title="general",Channel 7
+https://
