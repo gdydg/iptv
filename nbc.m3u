@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="general",ABC Australia
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3821.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD",Korean Central Television (KCTV) (1080i) [Not 24/7]
-https://tv.intchoson.com/kctv/index.m3u8
+https://r.pokaz.me/wxv_gCl97tt6xO2sM8QcOQ/30/1766183004/index.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD",Korean Central Television (KCTV) (1080i) [Not 24/7]
 https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD",Korean Central Television (KCTV) (576p)
