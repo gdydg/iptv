@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="general",ABC Australia
+http://restream-live.realiptv.to:8080/live/19742329/27604387/3821.m3u8
