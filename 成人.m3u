@@ -9,3 +9,5 @@ https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="ParnianTV.ca" tvg-name="Parnian TV" tvg-logo="https://i.imgur.com/J8ejADF.png" group-title="general",Parnian TV
 https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 tvg-id="ParnianTV.ca" tvg-name="Parnian TV" tvg-logo="https://i.imgur.com/J8ejADF.png" group-title="general",Parnian TV
+https://s.oxax.tv/IzRW2AnmyyMv319WK6k0Pw/30/1766669748/index.m3u8
