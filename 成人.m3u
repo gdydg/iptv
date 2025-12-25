@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" tvg-logo="https://i.postimg.cc/vHjsWf3R/gustotv.png" group-title="cooking",Gusto TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape" tvg-logo="https://i.postimg.cc/jdFpW1b6/stingraynaturescape.png" group-title="music",Stingray Naturescape
+http://190.14.10.19:16000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="music",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="music",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ParnianTV.ca" tvg-name="Parnian TV" tvg-logo="https://i.imgur.com/J8ejADF.png" group-title="general",Parnian TV
+https://live2.parnian.tv/hls/.m3u8
